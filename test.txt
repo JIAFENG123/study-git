@@ -6,3 +6,5 @@ add a branch
 test conflict
 
 test fast forward
+
+test bug
